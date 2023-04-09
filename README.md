@@ -1,4 +1,4 @@
-![images](https://user-images.githubusercontent.com/63294489/230770453-03d2e39a-60c1-45b2-86d0-cd5a1fb4d235.jpg)
+
 
 -- 🔭 I’m currently working on [Chat App](https://github.com/punhanhuseynov/flaskchatapp)
 
