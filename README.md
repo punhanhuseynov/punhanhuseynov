@@ -1,6 +1,6 @@
 
-
-- 🔭 I’m currently working on [Chat App](https://github.com/punhanhuseynov/flaskchatapp)
+<h1 align="left">Back End Developer</h1>
+<!-- - 🔭 I’m currently working on [Chat App](https://github.com/punhanhuseynov/flaskchatapp) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
