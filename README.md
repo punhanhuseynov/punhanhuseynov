@@ -1,7 +1,4 @@
 
-![565978-blade-runner](https://user-images.githubusercontent.com/63294489/236612560-fbf5dc67-c1ae-4bb9-aa9c-6b68c1900bb9.jpg)
-
-
 
 <h1 align="left">Junior Back End Developer</h1>
 <!-- - 🔭 I’m currently working on [Chat App](https://github.com/punhanhuseynov/flaskchatapp) -->
