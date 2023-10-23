@@ -1,7 +1,7 @@
 
 
 <h1 align="left" style="background-color:'black';">Junior Back End Developer</h1>
-<!--currey working on [Chat App](https://github.com/punhanhuseynov/flaskchatapp) -->
+<!--rey working on [Chat App](https://github.com/punhanhuseynov/flaskchatapp) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
