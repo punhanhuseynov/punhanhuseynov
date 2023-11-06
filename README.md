@@ -1,7 +1,7 @@
 
 
 <h1 align="left" style="background-color:'black';">Junior Back End Developer</h1>
-<!--orking on [Chat App](https://github.com/punhanhuseynov/flaskchatapp) -->
+<!--o  rking on [Chat App](https://github.com/punhanhuseynov/flaskchatapp) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
