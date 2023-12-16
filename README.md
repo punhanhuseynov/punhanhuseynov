@@ -1,7 +1,7 @@
 
 
 <h1 align="left" style="background-color:'black';">Junior Back End Developer</h1>
-<!--[t  https://github.c    asdsddjjdom/punhanhuseynov/flaskchatapp) sdfdf-->
+<!--[t  https://github. c  c    asdsddjjdom/punhanhuseynov/flaskchatapp) sdfdf-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
