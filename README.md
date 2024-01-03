@@ -1,6 +1,6 @@
 
 
-<h1 align="left" style="background-color:'black';">Junior Back End Developer</h1>
+<!-- <h1 align="left" style="background-color:'black';">Junior Back End Developer</h1>-->
 <!--[t  h--  ttp a sd bb    s://github. c  c    asdsddjjdom/punhanhuseynov/flaskchatapp) sdfdf-->
 
 <h3 align="left">Connect with me:</h3>
