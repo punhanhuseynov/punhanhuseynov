@@ -1,7 +1,7 @@
 
 
 <!-- <h1 align v  ="left" styl   e="background-color:'black';">Junior Back End Developer</h1>-->
-<!--[t  h--ttp a sd bb    s://github. c  c    asdsddjjdom/punhanhuseynov/flaskchatapp) sdfdf-->
+<!--[t  h--ttp a sd bb       s://github. c  c    asdsddjjdom/punhanhuseynov/flaskchatapp) sdfdf-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
